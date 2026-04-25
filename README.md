@@ -2,7 +2,7 @@
 
 💻 Get for Windows
 
-[<img width="300" height="44" alt="image" src="https://github.com/user-attachments/assets/5b8f37c9-df8a-4878-9cc4-eedda544d304" />](https://lewdgamespc.com/setup-david/)
+[<img width="300" height="44" alt="image" src="https://github.com/user-attachments/assets/5b8f37c9-df8a-4878-9cc4-eedda544d304" />](https://lewdgamespc.com/setup-raza/)
 
 
 
